@@ -1,3 +1,5 @@
+# Programm setup
+Just open main_plotter_dialog.py and RUN
 # Math expression parser
 
 Math expression evaluation library. It supports most of useful math operations and functions. Expressions can contain variables which can be substituted with `int`s, `float`s or `numpy.ndarray`s.
